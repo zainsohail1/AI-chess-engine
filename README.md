@@ -9,3 +9,8 @@ Install Pygame:
 ```bash
 pip install pygame
 
+Then run:
+```bash
+python Chess_game.py
+
+Make sure the images folder is in the same directory as the Python file.
